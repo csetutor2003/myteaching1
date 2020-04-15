@@ -68,6 +68,8 @@ a:hover {
   text-align: left;
 }
 
+
+
 .pro {
   text-decoration: underline;
 }
@@ -129,6 +131,7 @@ a:hover {
   width: 40%;
   float: right;
   margin-left: 30px;
+  margin-top: 10px;
 
 }
 
