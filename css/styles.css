@@ -121,6 +121,12 @@ a:hover {
   margin-left: 30px;
 }
 
+.hrinterview-img {
+  width: 40%;
+  float: right;
+  margin-left: 30px;
+}
+
 .teaching-img {
   width: 40%;
   float: right;
