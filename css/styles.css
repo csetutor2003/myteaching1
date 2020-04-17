@@ -57,6 +57,7 @@ a:hover {
   margin: 100px 0;
 }
 
+
 .bottom-container {
   background-color: #66BFBF;
   padding: 50px 0 20px;
@@ -68,6 +69,17 @@ a:hover {
   text-align: justify;
 }
 
+/*
+.profile {
+  width: 65%;
+   margin: 100px auto 100px auto;
+  text-align: justify;
+} */
+/* .sri-img {
+  width: 40%;
+  float: right;
+  margin-left: 30px;
+} */
 
 
 .pro {
@@ -75,13 +87,15 @@ a:hover {
 }
 
 .intro {
-  width: 35%;
+  width: 45%;
   margin: auto;
+  text-align: justify;
 }
 
 .contact-message {
   width: 40%;
   margin: 40px auto 60px;
+  text-align: justify;
 }
 
 
@@ -142,10 +156,10 @@ a:hover {
 
 .computerscienceit-img {
   width: 40%;
+  height: auto;
   float: right;
   margin-left: 30px;
-  margin-top: 10px;
-
+  margin-top: 50px;
 }
 
 .btn {
